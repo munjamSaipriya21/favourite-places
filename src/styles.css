@@ -1,0 +1,11 @@
+.App {
+  max-width: 900px;
+  margin: auto;
+  padding: 5rem;
+  color: blue;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: rgb(172, 135, 33);
+}
